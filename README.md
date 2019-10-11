@@ -6,25 +6,25 @@
 
 ## how to run the application
 
-1.Download the repository.
-2.Run index.html in your browser.
-3.check out all the feeds.
+* 1.Download the repository.
+* 2.Run index.html in your browser.
+* 3.check out all the feeds.
 
 ## Tests
-1.RSS Feeds
+1. RSS Feeds
  - the allFeeds is defined.
- - allFeeds it is not empty.
+ - allFeeds is not empty.
  - allURLs is defined.
- - the URL is not empty.
+ - the URL is not empty and it is actually a url !.
  - allNames is defined.
  - the Name is not empty
 
-2.The menu
+2. The menu
  - is hidden by default.
  - should hiding/showing. 
 
-3.Initial Entries
+3. Initial Entries
  - has at least a single entry.
 
-4.New Feed Selection
+4. New Feed Selection
  - the content changes when new feed is loaded.
