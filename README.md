@@ -12,19 +12,19 @@
 
 ## Tests
 1. RSS Feeds
- - the allFeeds is defined.
- - allFeeds is not empty.
- - allURLs is defined.
- - the URL is not empty and it is actually a URL.
- - allNames is defined.
- - the Name is not empty
+    1. the allFeeds is defined.
+    2. allFeeds is not empty.
+    3. allURLs is defined.
+    4. the URL is not empty and it is actually a URL.
+    5. allNames is defined.
+    6. the Name is not empty
 
 2. The menu
- - is hidden by default.
- - should hiding/showing. 
+    1. is hidden by default.
+    2. should hiding/showing. 
 
 3. Initial Entries
- - has at least a single entry.
+    1. has at least a single entry.
 
 4. New Feed Selection
- - the content changes when new feed is loaded.
+    1. the content changes when new feed is loaded.
